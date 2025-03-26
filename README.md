@@ -18,6 +18,7 @@ The app allows users to see current weather conditions for a specified location.
     ```bash
     git clone <repository_url>
     cd <repository_directory>
+    git checkout b development
     ```
 
 2.  **Install dependencies:**
